@@ -1,16 +1,16 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**lsgeun/lsgeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 백엔드 개발자 취준생
 
-Here are some ideas to get you started:
+### 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 자바, 스프링, 깃헙, 파이썬
+
+### 프로젝트
+
+- [ecommerce](https://github.com/lsgeun/ecommerce), 이커머스 백엔드, 자바 (진행중)
+- [졸업과제](https://github.com/lsgeun/dnn-featuremap-analysis-graduatation-project), 데이터 분석 도구, 파이썬
+
+### 🔗 링크
+
+- [개발 블로그](https://lsgeun.github.io) (만드는 중)
