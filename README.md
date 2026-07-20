@@ -1,19 +1,18 @@
-# 안녕하세요 👋
+# 👋 안녕하세요
 
-- 💻 백엔드 개발자 취준생
+- ☕ **자바**와 🌱 **스프링 부트**를 공부하는 ⚙️ 백엔드 💻 개발자 🙏 취준생입니다.
+- 현재 개발 지식 정리와 경험 공유를 위한 개인 개발 블로그(🚧 만드는 중)를 열심히 구축하고 있습니다.
 
-### 기술 스택
+### 🛠️ 기술 스택
 
-- 자바, 스프링, 깃헙, 파이썬
+- ☕ 자바 / 🌱 스프링 부트 / 🐙 깃헙
 
-### 프로젝트
+### 🚀 프로젝트
 
-- [ecommerce](https://github.com/lsgeun/ecommerce), 이커머스 백엔드, 자바 (진행중)
+- 🛒 [ecommerce](https://github.com/lsgeun/ecommerce), ⚙️ 백엔드, 🌱 스프링 부트 (🔥 진행중)
 
-#### 사이드 프로젝트
+### 🔗 링크, 연락
 
-- [졸업과제](https://github.com/lsgeun/dnn-featuremap-analysis-graduatation-project), 데이터 분석 도구, 파이썬
-
-### 🔗 링크
-
-- [개발 블로그](https://lsgeun.github.io) (만드는 중)
+- 📝 [개발 블로그](https://lsgeun.github.io) (🚧 만드는 중)
+- ✉️ [이메일](zlwkr1974@gmail.com)
+- ☕️ [링크드인](https://www.linkedin.com/in/상근-이-8958aa3b3)
