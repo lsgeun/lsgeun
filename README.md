@@ -14,5 +14,5 @@
 ### 🔗 링크, 연락
 
 - 📝 [개발 블로그](https://lsgeun.github.io) (🚧 만드는 중)
-- ✉️ [이메일](zlwkr1974@gmail.com)
+- ✉️ 이메일, zlwkr1974@gmail.com
 - ☕️ [링크드인](https://www.linkedin.com/in/상근-이-8958aa3b3)
