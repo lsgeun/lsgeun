@@ -11,3 +11,9 @@
 ### 🚀 프로젝트
 
 - 🛒 [ecommerce](https://github.com/lsgeun/ecommerce), ⚙️ 백엔드, 🌱 스프링 부트 (🔥 진행중)
+
+### 📱 연락
+
+- ✉️ [이메일](mailto:lsgeun.me@gmail.com)
+- ✍️ [개발 블로그](https://lsgeun.github.io)
+- 🔗 [링크드인](https://www.linkedin.com/in/lsgeun)
