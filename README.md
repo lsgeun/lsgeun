@@ -6,7 +6,6 @@
 ### 🛠️ 기술 스택
 
 - ☕ 자바 / 🌱 스프링 부트 / 🐙 깃헙
-- 🐍 파이썬([데이터 분석 졸업과제](https://github.com/lsgeun/dnn-featuremap-analysis-graduatation-project))
 
 ### 🚀 프로젝트
 
