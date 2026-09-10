@@ -10,6 +10,7 @@
 ### 🚀 프로젝트
 
 - 🛒 [ecommerce](https://github.com/lsgeun/ecommerce), ⚙️ 백엔드, 🌱 스프링 부트 (🔥 진행중)
+- 📊 [졸업 과제](https://github.com/lsgeun/dnn-featuremap-analysis-graduatation-project), 🐍 파이썬, 🔎 데이터 분석 시각화 도구 (✅ 완료)
 
 ### 📱 연락, 링크
 
