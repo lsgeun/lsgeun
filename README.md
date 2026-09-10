@@ -14,6 +14,4 @@
 
 ### 📱 연락, 링크
 
-- ✉️ [이메일](mailto:lsgeun.me@gmail.com)
-- ✍️ [개발 블로그](https://lsgeun.github.io)
-- 🔗 [링크드인](https://www.linkedin.com/in/lsgeun)
+- ✉️ [Email](mailto:lsgeun.me@gmail.com) / ✍️ [개발 블로그](https://lsgeun.github.io) / 🔗 [LinkedIn](https://www.linkedin.com/in/lsgeun)
